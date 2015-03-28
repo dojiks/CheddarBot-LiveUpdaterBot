@@ -1,0 +1,2 @@
+# CheddarBot-LiveUpdaterBot
+hype
